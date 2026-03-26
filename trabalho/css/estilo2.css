@@ -1,0 +1,8 @@
+h1, h2{color:crimson;
+text-decoration: underline;
+}
+body{color:darkblue;
+font-family: "Open Sans", sans-serif;}
+.a{color:blueviolet}
+p::first-letter{font-size: 200%;}
+footer{font-size: 11px;}
